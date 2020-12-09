@@ -1,4 +1,4 @@
 # KaDISaMi
 Proyecto de Metodos Numericos
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4pn23j"></iframe></div><p><a href="https://imgflip.com/gif/4pn23j">via Imgflip</a></p></div>
+![4pn2b8](https://user-images.githubusercontent.com/75098676/101596505-0bcadd80-39aa-11eb-8e05-55e26556a013.gif)
